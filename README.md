@@ -46,6 +46,7 @@ Le jeu permet la création de donjons, de personnages et d'équipements.
 
 ## Fonctionnalités principales
 
+- Choix de la langue du jeu
 - Génération d'un donjon et des joueurs
 - Gestion des tours
 - Déplacements, attaques, sorts, équipements
