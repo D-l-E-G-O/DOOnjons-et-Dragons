@@ -1,4 +1,4 @@
-# DOOnjons et Dragons
+# DOOnjons et Dragons ![Static Badge](https://img.shields.io/badge/Statut-Termin%C3%A9-red)
 
 Projet de fin de 1ère année de **BUT Informatique** à l’**IUT d’Illkirch**.
 
